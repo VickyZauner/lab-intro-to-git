@@ -2,3 +2,10 @@
 
 * Vicky
 * Zauner
+
+# Hobbies
+
+* Surfing
+* Painting
+* Yoga
+* Sailing
